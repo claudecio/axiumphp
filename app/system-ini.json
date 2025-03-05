@@ -1,0 +1,18 @@
+{
+    "SoftwareInfo": {
+        "name": "",
+        "description": "",
+        "version": "1.0.0"
+    },
+    "Core": {
+        "name": "Núcleo do Sistema",
+        "version": "1.0.0",
+        "description": "Responsável pela integração de módulos e controle central do sistema.",
+        "dependencies": []
+    },
+    "Modules": {
+        "essentials": [],
+        "active": [],
+        "disabled": []
+    }
+}
