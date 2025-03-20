@@ -1,0 +1,2 @@
+# Ignora váriaveis de ambiente do sistema
+.env

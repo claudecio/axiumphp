@@ -1,7 +1,7 @@
 {
     "SoftwareInfo": {
-        "name": "",
-        "description": "",
+        "name": "Agromix",
+        "description": "Sistema de gestão de produção agrícola.",
         "version": "1.0.0"
     },
     "Core": {

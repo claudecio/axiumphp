@@ -1,7 +1,7 @@
 {
-    "name": "claudecio/axiumphp",
-    "description": "",
-    "type": "project",
+    "name": "informix/agromix",
+    "description": "Sistema de gestão de produção agrícola.",
+    "type": "software",
     "require": {
         "php":">=8.1",
         "vlucas/phpdotenv":"v5.6.1",
